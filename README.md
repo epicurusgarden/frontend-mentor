@@ -1,6 +1,6 @@
 ## FrontEnd Mentor Projects
 
-### [Single price grid component solution](https://heterotopia52.github.io/front-End-Mentor/single-price-grid-component/index.html)
+### [Single price grid component solution](https://epicurusgarden.github.io/frontend-mentor/single-price-grid-component/index.html)
 
 ![solution](single-price-grid-component/Screenshot_Single-Price-Grid-Component.png)
 [{code}](./single-price-grid-component/index.html)
