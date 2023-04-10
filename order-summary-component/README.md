@@ -62,4 +62,4 @@ Tailwind will be useful in other situations. Will be used definitely.
 
 ## Author
 
-- Frontend Mentor - [@beterotopia52](https://www.frontendmentor.io/profile/heterotopia52)
+- Frontend Mentor - [@epicurusgarden](https://www.frontendmentor.io/profile/epicurusgarden)
