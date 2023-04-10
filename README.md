@@ -3,7 +3,7 @@
 ### [Single price grid component solution](https://epicurusgarden.github.io/frontend-mentor/single-price-grid-component/index.html)
 
 ![solution](single-price-grid-component/Screenshot_Single-Price-Grid-Component.png)
-[{code}](./single-price-grid-component/index.html)
+[{code}](https://github.com/epicurusgarden/frontend-mentor/blob/master/single-price-grid-component/index.html)
 
 <hr>
 
